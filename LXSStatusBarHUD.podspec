@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|\
 \f0 \'92 => \'9113703315646@163.com\'92 \}\
   spec.summary          = 'ARC and GCD Compatible Reachability Class for iOS and macOS.'\
   spec.source           = \{ :git => 'https://github.com/1583782386/LXSStatusBarHUD.git', :tag => 'v1.0.0\'92 \}\
-  spec.source_files     = 'LXSStatusBarHUD.h,m'\
+  spec.source_files     = 'LXSStatusBarHUD\'92\
   spec.framework        = \'91UIKit\'92\
   spec.requires_arc     = true\
 end\
