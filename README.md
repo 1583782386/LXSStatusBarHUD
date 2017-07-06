@@ -4,6 +4,11 @@
 ```obj
  [LXSStatusBarHUD showSuccess:@"加载成功 ！"];
 ```
+## 显示普通信息
+```obj
+ [LXSStatusBarHUD showMessage:@"普通信息 ！"];
+```
+
 ## 显示失败信息
 
 ```obj
